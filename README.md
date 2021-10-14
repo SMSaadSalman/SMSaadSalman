@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SMSaadSalman
+- 👀 I’m interested in Mobile Application development and Deepp Learning
+- 🌱 I’m currently teaching similar subjects
+- 💞️ I’m looking to collaborate on developing Mobile/Web apps
+- 📫 You can email me at saad.salman@nu.edu.pk
